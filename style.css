@@ -1,0 +1,16 @@
+.to-center {
+    text-align: center;
+}
+
+.img-center {
+    padding: 1em;
+    display: block;
+    width: 300;
+    height: auto;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+#swtrollimg {
+
+}
